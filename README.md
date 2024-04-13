@@ -12,9 +12,10 @@ cp /product/etc/fonts_customization.xml /sdcard/MFFM/fontsxml/fonts_customizatio
 ```
 You only need to do this once. Repeat this only if you change ROM! After this you are ready to install, update, dirty install, install `MFFMv12` modules without any trouble. 
 
-## Emoji
- - Add `Emoji-` before the name of your Emoji font and put it in the `MFFM` folder. EG: rename `WhatsappEmoji.ttf`  to `Emoji-WhatsappEmoji.ttf`
- - Download the Emoji Addon from [here](https://github.com/charityrolfson433/mffmv11/tree/main/Emoji%20Fonts%20Packges). Put it inside the `MFFM Folder (/LocalStorage/MFFM)` folder alongside the renamed emoji file.
+## iOS Emoji
+ - Download iOS Emoji [here](https://raw.githubusercontent.com/Rve27/iOS/main/iOS%20Emoji/Emoji-iOSEmoji.ttf)
+ - Move `Emoji-iOSEmoji.ttf` to `MFFM Folder (/LocalStorage/MFFM)`
+ - Download the Emoji Addon from [here](https://github.com/Rve27/iOS/releases/download/Addon/MFFM_UniEmoji_v5.5.sh). Put it inside the `MFFM Folder (/LocalStorage/MFFM)` folder alongside the renamed emoji file.
 
 # Magisk Hide / Zygisk Denylist Hidden App Crash
 - **With the latest changes modules can be used without any major issue, yet if you find any issues, report in the group.**
