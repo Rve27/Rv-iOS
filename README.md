@@ -17,13 +17,11 @@ You only need to do this once. Repeat this only if you change ROM! After this yo
  - Move `Emoji-iOSEmoji.ttf` to `MFFM Folder (/LocalStorage/MFFM)`
  - Download the Emoji Addon from [here](https://github.com/Rve27/iOS/releases/download/Addon/MFFM_UniEmoji_v5.5.sh). Put it inside the `MFFM Folder (/LocalStorage/MFFM)` folder alongside the renamed emoji file.
 
-# Magisk Hide / Zygisk Denylist Hidden App Crash
-- **With the latest changes modules can be used without any major issue, yet if you find any issues, report in the group.**
-
 # GApps Font
 - If your Google Apps font don't change by default then flash [KillGMSFont](https://github.com/MrCarb0n/killgmsfont) Magisk Module by [MrCarb0n](https://github.com/MrCarb0n/)
 
 # Credits
-- [Magisk](https://github.com/topjohnwu/Magisk) | [Inter Font Pack By kdrag0n](https://github.com/kdrag0n/inter-font-pack)
+- [Magisk](https://github.com/topjohnwu/Magisk) | [Inter Font Pack By kdrag0n](https://github.com/kdrag0n/inter-font-pack) | [Template by MFFM](https://github.com/charityrolfson433/mffmv11)
+
 # Tributes & Acknowledgements
 - [OMF](https://gitlab.com/nongthaihoang/oh_my_font) | [OMF Template](https://gitlab.com/nongthaihoang/omftemplate) | [CFI](https://github.com/nongthaihoang/custom_font_installer) | [Noto Emoji Plus](https://gitlab.com/MrCarb0n/NotoEmojiPlus_OMF) | [KillGMSFont](https://github.com/MrCarb0n/killgmsfont) | [Magifont](https://t.me/Magifonts_Support)
